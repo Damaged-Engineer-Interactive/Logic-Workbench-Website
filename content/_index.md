@@ -1,9 +1,10 @@
 ---
-title: My Site
+title: Logic Workbench
+description: Create, Simulate, Expand
 toc: false
 ---
 
-This is the landing page.
+Welcome!
 
 ## Explore
 
