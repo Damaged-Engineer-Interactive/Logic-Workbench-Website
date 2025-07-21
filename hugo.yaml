@@ -33,9 +33,14 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/Damaged-Engineer-Interactive/Logic-Workbench"
       params:
         icon: github
+    - name: Itch
+      weight: 6
+      url: "https://damaged-engineers.itch.io/logic-workbench"
+      params:
+        icon: itch
 
 params:
   theme:
